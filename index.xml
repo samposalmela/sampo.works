@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sampo.works</title>
+    <link>https://samposalmela.github.io/sampo.works/</link>
+    <description>Recent content on sampo.works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 18:19:07 +0200</lastBuildDate><atom:link href="https://samposalmela.github.io/sampo.works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://samposalmela.github.io/sampo.works/docs/test/</link>
+      <pubDate>Wed, 15 Nov 2023 18:19:07 +0200</pubDate>
+      
+      <guid>https://samposalmela.github.io/sampo.works/docs/test/</guid>
+      <description>This is a test page</description>
+    </item>
+    
+  </channel>
+</rss>
