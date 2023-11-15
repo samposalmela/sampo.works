@@ -1,0 +1,8 @@
+baseURL = 'https://samposalmela.github.io/sampo.works/'
+languageCode = 'en-us'
+title = 'sampo.works'
+theme = 'risotto'
+author = 'Sampo Salmela'
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
