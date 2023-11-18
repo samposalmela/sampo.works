@@ -11,7 +11,7 @@ sectionPagesMenu = "main"
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+palette = "base16-tokyo-night-terminal-dark"
 
 # Sidebar: about/bio
 [params.about]
@@ -32,5 +32,13 @@ url = "https://www.linkedin.com/in/sampo-salmela/"
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/samposalmela"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
 
