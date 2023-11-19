@@ -6,7 +6,19 @@
     <description>Recent content on sampo.works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>© 2023 [Sampo Salmela](https://www.linkedin.com/in/sampo-salmela/)</copyright>
     <lastBuildDate>Wed, 15 Nov 2023 18:19:07 +0200</lastBuildDate><atom:link href="https://samposalmela.github.io/sampo.works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://samposalmela.github.io/sampo.works/about/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samposalmela.github.io/sampo.works/about/</guid>
+      <description>About this site This site will work as training ground myself to make me more motivated to work on different projects related to my work, hobbies and skills.
+Working life I currently work as cyber security developer and have history in cyber security and server administration.
+What else? Gaming and everything related I will mark this here even though I have rarely done nothing towards this yet. I have always loved video games and decided that game development would be nice middle ground for my technical knowledge, creative desires and love for gaming.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://samposalmela.github.io/sampo.works/docs/test/</link>
