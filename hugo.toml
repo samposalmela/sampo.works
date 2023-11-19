@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'sampo.works'
 theme = 'risotto'
 author = 'Sampo Salmela'
+copyright = "© 2023 [Sampo Salmela](https://www.linkedin.com/in/sampo-salmela/)"
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
@@ -16,7 +17,7 @@ palette = "base16-tokyo-night-terminal-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Sampo Salmela"
-description = "This is my personal site."
+description = "Tech enthusiast"
 
 # Sidebar: social links
 # Available icon sets:
@@ -39,6 +40,12 @@ url = "https://github.com/samposalmela"
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "docs"
+    name = "Docs"
+    url = "/docs/"
     weight = 10
 
 
